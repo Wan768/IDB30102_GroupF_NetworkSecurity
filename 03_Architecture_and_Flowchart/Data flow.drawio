@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="iWYBVxHLO8QUzrh7IPkm">
+    <mxGraphModel dx="1374" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-8" edge="1" parent="1" source="d8pVcmxAvOOs6ZEi5Kqx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="d8pVcmxAvOOs6ZEi5Kqx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Datasets&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(CICIDS2018 / CICIDS2017 / UNSW-NB15)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-9" edge="1" parent="1" source="d8pVcmxAvOOs6ZEi5Kqx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="d8pVcmxAvOOs6ZEi5Kqx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1.0 Data Cleaning&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="340" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-10" edge="1" parent="1" source="d8pVcmxAvOOs6ZEi5Kqx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d8pVcmxAvOOs6ZEi5Kqx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2.0 LightGBM Feature Selection&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-11" edge="1" parent="1" source="d8pVcmxAvOOs6ZEi5Kqx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d8pVcmxAvOOs6ZEi5Kqx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3.0 Shallow 1D-CNN Feature Mapping&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="340" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-12" edge="1" parent="1" source="d8pVcmxAvOOs6ZEi5Kqx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="d8pVcmxAvOOs6ZEi5Kqx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-15" edge="1" parent="1" source="d8pVcmxAvOOs6ZEi5Kqx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="d8pVcmxAvOOs6ZEi5Kqx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4.0 Threat Classification&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="340" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Threat Identification&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="210" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="d8pVcmxAvOOs6ZEi5Kqx-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Performance Logs based on the metrics&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="450" y="690" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
