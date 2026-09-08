@@ -15,6 +15,7 @@
 | **Limitation** | Higher training/inference time and computational cost than single models due to architectural complexity; not yet tested for real-time deployment or zero-day attack scenarios. |
 | **Relevance to Proposed Research** | Directly supports RO1 and RO2 — provides empirical evidence that hybrid CNN+DL architectures outperform single models, but also confirms the accuracy-vs-efficiency trade-off your proposal aims to address with a lightweight hybrid design. |
 | **Citation (APA 7th)** | Hnamte, V., & Hussain, J. (2023). DCNNBiLSTM: An efficient hybrid deep learning-based intrusion detection system. *Telematics and Informatics Reports*, 10, 100053. https://www.sciencedirect.com/science/article/pii/S2772503023000130 |
+| **License** | CC BY 4.0 — open access, redistribution permitted with attribution |
 
 ### Paper 2
 | Item | Required Information |
@@ -29,3 +30,4 @@
 | **Limitation** | Performance and precision decrease rapidly in minority categories with very few samples; computational overhead remains higher than lightweight traditional machine learning models. |
 | **Relevance to Proposed Research** | Directly supports RO1 and RO2 by demonstrating an alternative vision-based transformation for tabular network traffic and validating attention mechanisms for NIDS feature representation. |
 | **Citation (APA 7th)** | He, K., Zhang, W., Zong, X., & Lian, L. (2024). Network intrusion detection based on feature image and deformable vision transformer classification. *IEEE Access*, 12, 44335-44350. https://doi.org/10.1109/ACCESS.2024.3376434 |
+| **License** | CC BY 4.0 — open access, redistribution permitted with attribution |
