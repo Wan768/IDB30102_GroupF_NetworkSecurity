@@ -67,6 +67,53 @@
 | **Citation (APA 7th)** | He, K., Zhang, W., Zong, X., & Lian, L. (2024). Network intrusion detection based on feature image and deformable vision transformer classification. *IEEE Access*, 12, 44335-44350. https://doi.org/10.1109/ACCESS.2024.3376434 |
 | **License** | CC BY 4.0 — open access, redistribution permitted with attribution |
 
+### Paper 3
+
+| Item | Required Information |
+| --- | --- |
+| **Paper Title** | Algorithm Optimization and Implementation of a Multi-Layer Network Intrusion Detection System |
+| **Author(s)** | Haotian Zhang, Jian Ma, Xi Li |
+| **Year** | 2024 |
+| **Research Problem** | Single-layer detection architectures face severe throughput bottlenecks and latency spikes during high-speed network traffic analysis. |
+| **Method / Technique** | Multi-layered NIDS architecture implementing a 256MB Ring Buffer caching mechanism based on multithreading. |
+| **Dataset / Tools** | CICIDS2019 dataset and a self-built test dataset. |
+| **Main Findings** | The multi-layered NIDS significantly outperformed traditional single-tier solutions across all key evaluation metrics, including Accuracy, Recall, and F1-Score. |
+| **Limitation** | The experimental validation did not incorporate live simulated attack testing in real-world deployment conditions. |
+| **Relevance to Proposed Research** | Highlights the importance of multi-stage processing and caching to reduce system latency, supporting low-latency hybrid pipeline designs. |
+| **Citation (APA 7th)** | Zhang, H., Ma, J., & Li, X. (2024). Algorithm optimization and implementation of a multi-layer network intrusion detection system. *2024 International Conference on Computing, Robotics and System Sciences (ICRSS)*, 239–243. [https://doi.org/10.1109/ICRSS63816.2024.10859124](https://www.google.com/search?q=https://doi.org/10.1109/ICRSS63816.2024.10859124)<br> |
+| **License** | IEEE / Standard Academic License |
+
+### Paper 4
+
+| Item | Required Information |
+| --- | --- |
+| **Paper Title** | Residual Dense Optimization-Based Multi-Attention Transformer to Detect Network Intrusion against Cyber Attacks |
+| **Author(s)** | Majid H. Alsulami |
+| **Year** | 2024 |
+| **Research Problem** | Conventional deep learning models struggle to capture fine-grained feature representations across diverse attack types in high-dimensional network traffic. |
+| **Method / Technique** | Residual Dense Optimization-Based Multi-Attention Transformer architecture. |
+| **Dataset / Tools** | UNSW-NB15 and CICIDS2017 datasets. |
+| **Main Findings** | Outperformed conventional DL models across Accuracy, Precision, Recall, and F1-score. |
+| **Limitation** | Requires significant computational resources, heavy memory overhead, and extensive hyperparameter tuning. |
+| **Relevance to Proposed Research** | Demonstrates the detection potential of deep learning while emphasizing the necessity for lighter, low-overhead models like Shallow 1D-CNNs for constrained environments. |
+| **Citation (APA 7th)** | Alsulami, M. H. (2024). Residual dense optimization-based multi-attention transformer to detect network intrusion against cyber attacks. *Applied Sciences*, 14(17), 7763. [https://doi.org/10.3390/app14177763](https://doi.org/10.3390/app14177763)<br> |
+| **License** | CC BY 4.0 — open access |
+
+### Paper 5
+
+| Item | Required Information |
+| --- | --- |
+| **Paper Title** | DRL-GAN: A Hybrid Approach for Binary and Multiclass Network Intrusion Detection |
+| **Author(s)** | Caroline Strickland, Mohamed Zakar, Chirantan Saha, Seyedali Soltani Nejad, Nazneen Tasnim, Daniel J. Lizotte, Anwar Haque |
+| **Year** | 2024 |
+| **Research Problem** | Severe class imbalance in network security datasets leads to high false negative rates for rare attack types. |
+| **Method / Technique** | DRL-GAN (Deep Reinforcement Learning + Generative Adversarial Networks) hybrid framework for synthetic sample generation and multi-class detection. |
+| **Dataset / Tools** | CICIDS2017 and benchmark IDS datasets. |
+| **Main Findings** | Substantially improved classification accuracy, recall, and F1-score for minority and rare attack classes. |
+| **Limitation** | Detection performance is highly dependent on the quality and distribution of generated synthetic samples. |
+| **Relevance to Proposed Research** | Addresses dataset imbalance challenges in multi-class network intrusion detection, providing guidance on feature scaling and data preprocessing steps. |
+| **Citation (APA 7th)** | Strickland, C., Zakar, M., Saha, C., Soltani Nejad, S., Tasnim, N., Lizotte, D. J., & Haque, A. (2024). DRL-GAN: A hybrid approach for binary and multiclass network intrusion detection. *Sensors*, 24(9), 2746. [https://doi.org/10.3390/s24092746](https://www.google.com/search?q=https://doi.org/10.3390/s24092746)<br> |
+| **License** | CC BY 4.0 — open access |
 
 ## Theme 3:  IoT and Industrial IoT Security
 
