@@ -157,6 +157,21 @@
 | **Citation (APA 7th)** | Strickland, C., Zakar, M., Saha, C., Soltani Nejad, S., Tasnim, N., Lizotte, D. J., & Haque, A. (2024). DRL-GAN: A hybrid approach for binary and multiclass network intrusion detection. *Sensors*, 24(9), 2746. https://www.mdpi.com/1424-8220/24/9/2746 |
 | **License** | CC BY 4.0 — open access |
 
+### Paper 6
+| Item | Required Information |
+| --- | --- |
+| **Paper Title** | Anomaly Detection of Zero-Day Attacks Based on CNN and Regularization Techniques |
+| **Author(s)** | Belal Ibrahim Hairab, Hassan K. Aslan, Mohamed S. Elsayed, Anik D. Jurcut, Mohamad A. Azer |
+| **Year** | 2023 |
+| **Research Problem** | Detecting zero-day and unseen cyber threats in IoT networks without suffering from model overfitting on training sets. |
+| **Method / Technique** | Convolutional Neural Networks (CNNs) integrated with L1 and L2 regularization techniques to improve generalization. |
+| **Dataset / Tools** | TON-IoT dataset. |
+| **Main Findings** | Regularized CNN models outperformed traditional machine learning baselines, mitigating overfitting and improving generalization for unseen zero-day attacks. |
+| **Limitation** | Addressed overfitting and generalization gaps, but evaluation relied primarily on benchmark traffic rather than live enterprise networks. |
+| **Relevance to Proposed Research** | Demonstrates how CNN feature representations combined with regularization mitigate overfitting, supporting shallow CNN architectures. |
+| **Citation (APA 7th)** | Hairab, B. I., Aslan, H. K., Elsayed, M. S., Jurcut, A. D., & Azer, M. A. (2023). Anomaly detection of zero-day attacks based on CNN and regularization techniques. *Electronics*, 12(3), 573. [https://doi.org/10.3390/electronics12030573](https://www.google.com/search?q=https://doi.org/10.3390/electronics12030573)<br> |
+| **License** | CC BY 4.0 — open access |
+
 ## Theme 3:  IoT and Industrial IoT Security
 
 ### Paper 1
