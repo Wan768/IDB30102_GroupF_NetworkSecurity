@@ -14,9 +14,8 @@ This folder contains working preliminary code demonstrating the intended preproc
 3. `python train_baseline_model.py`
 
 ## Attribution
-These scripts are original work written by the group for this research proposal. They use the following open-source Python libraries (not modified or redistributed, only imported as dependencies):
+The following open source Python libraries were used:
 - **scikit-learn** (BSD 3-Clause License) — https://scikit-learn.org
 - **pandas** (BSD 3-Clause License) — https://pandas.pydata.org
 - **numpy** (BSD 3-Clause License) — https://numpy.org
 
-No third-party source code has been copied or adapted into these scripts.
