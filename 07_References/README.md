@@ -38,3 +38,42 @@
 19. Wang, Y.-C., Houng, Y.-C., Chen, H.-X., & Tseng, S.-M. (2023). Network anomaly intrusion detection based on deep learning approach. Sensors, 23(4), 2171. https://doi.org/10.3390/s23042171
 
 20. Cohen, S., Goldshlager, N., Shapira, B., & Rokach, L. (2023). TTANAD: Test-time augmentation for network anomaly detection. Entropy, 25(5), 820. https://doi.org/10.3390/e25050820
+
+21. Sharafaldin, I., Lashkari, A. H., & Ghorbani, A. A. (2018). Toward generating a new intrusion detection dataset and intrusion traffic characterization. In Proceedings of ICISSP 2018 (pp. 108–116). https://doi.org/10.5220/0006639801080116 (CICIDS2017 / CICIDS2018 dataset — Canadian Institute for Cybersecurity) — https://www.unb.ca/cic/datasets/ids-2017.html and https://www.unb.ca/cic/datasets/ids-2018.html
+
+22. Ferrag, M. A., Friha, O., Hamouda, D., Maglaras, L., & Janicke, H. (2022). Edge-IIoTset: A new comprehensive realistic cyber security dataset of IoT and IIoT applications for centralized and federated learning. IEEE Access, 10, 40281–40306. https://doi.org/10.1109/ACCESS.2022.3165809 (Edge_IIoT dataset) — https://ieee-dataport.org/documents/edge-iiotset-new-comprehensive-realistic-cyber-security-dataset-iot-and-iiot-applications
+
+23. NSL-KDD dataset. Canadian Institute for Cybersecurity, University of New Brunswick. https://www.unb.ca/cic/datasets/nsl.html
+
+24. UNSW-NB15 dataset. Moustafa, N., & Slay, J. (2015). UNSW-NB15: A comprehensive data set for network intrusion detection systems. Australian Centre for Cyber Security, UNSW Canberra. https://research.unsw.edu.au/projects/unsw-nb15-dataset
+
+25. Bot-IoT dataset. Koroniotis, N., Moustafa, N., Sitnikova, E., & Turnbull, B. (2019). Towards the development of realistic botnet dataset in the Internet of Things for network forensic analytics: Bot-IoT dataset. UNSW Canberra. https://research.unsw.edu.au/projects/bot-iot-dataset
+
+26. Pedregosa, F., et al. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830. https://jmlr.org/papers/v12/pedregosa11a.html
+
+27. The pandas development team. (2020). pandas-dev/pandas: Pandas (Version 1.0.3) [Software]. Zenodo. https://doi.org/10.5281/zenodo.3509134
+
+28. Harris, C. R., et al. (2020). Array programming with NumPy. Nature, 585, 357–362. https://doi.org/10.1038/s41586-020-2649-2
+
+29. Abadi, M., et al. (2016). TensorFlow: A system for large-scale machine learning. In Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI). https://www.tensorflow.org/
+
+## GitHub / Open-Source Repositories Used
+| Library | Purpose | GitHub Repository | License |
+|---|---|---|---|
+| scikit-learn | Baseline ML models, preprocessing, evaluation metrics | https://github.com/scikit-learn/scikit-learn | BSD 3-Clause |
+| pandas | Data loading and manipulation | https://github.com/pandas-dev/pandas | BSD 3-Clause |
+| NumPy | Numerical array operations | https://github.com/numpy/numpy | BSD 3-Clause |
+| TensorFlow / Keras (planned) | Deep learning model development | https://github.com/tensorflow/tensorflow | Apache 2.0 |
+
+## Technical Documentation
+Scikit-learn documentation — Random Forest Classifier. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+Scikit-learn documentation — Preprocessing data. https://scikit-learn.org/stable/modules/preprocessing.html
+
+Pandas documentation. https://pandas.pydata.org/docs/
+
+TensorFlow / Keras documentation. https://www.tensorflow.org/api_docs
+
+Git documentation. https://git-scm.com/doc
+
+GitHub documentation. https://docs.github.com/
