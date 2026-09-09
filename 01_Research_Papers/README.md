@@ -18,8 +18,7 @@
 | **License** | CC BY-NC-ND 4.0 — open access, non-commercial redistribution permitted with attribution |
 
 
-## Paper 2
-
+### Paper 2
 | Item | Required Information |
 | --- | --- |
 | **Paper Title** | Design of Network Intrusion Detection System Based on Data Mining|
