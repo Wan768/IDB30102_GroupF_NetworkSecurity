@@ -176,3 +176,20 @@
 | **Relevance to Proposed Research** | Directly supports RO1 and RO2 — demonstrates an effective tree-based feature selection technique (LightGBM) to reduce dimensionality before feeding data into neural network classifiers for network intrusion detection. |
 | **Citation (APA 7th)** | Deng, Y. (2024). Design of industrial IoT intrusion security detection system based on LightGBM feature algorithm and multi-layer perception network. *Journal of Cyber Security and Mobility*, 13(2), 327–348. https://doi.org/10.13052/jcsm2245-1439.1327 |
 | **License** | Copyright © 2024 River Publishers — Paywalled / No redistribution permitted (DOI provided in accordance with brief guidelines) |
+
+## Theme 4: Optimization and Feature Reduction Strategies
+
+### Paper 1
+| Item | Required Information |
+| :--- | :--- |
+| **Paper Title** | TTANAD: Test-Time Augmentation for Network Anomaly Detection |
+| **Author(s)** | Seffi Cohen, Niv Goldshlager, Bracha Shapira, Lior Rokach |
+| **Year** | 2023 |
+| **Research Problem** | Existing machine learning-based Network Intrusion Detection Systems (NIDS) primarily focus on modifying detector models, while modern cyber threats successfully evade detection, highlighting the need to address detection limitations from the data side during inference. |
+| **Method / Technique** | TTANAD — a novel framework utilizing test-time augmentation that leverages the temporal characteristics of network traffic data to produce temporal test-time augmentations, creating multiple inference viewpoints across diverse anomaly detection algorithms without requiring model retraining. |
+| **Dataset / Tools** | CIC-IDS2017, CSE-CIC-IDS2018, and UNSW-NB15 benchmark datasets. |
+| **Main Findings** | Demonstrated that TTANAD outperforms standard baselines across all evaluated benchmark datasets and tested anomaly detection algorithms based on the Area Under the Receiver Operating Characteristic (AUC) metric. |
+| **Limitation** | Relies on generating appropriate temporal windows and requires additional computational overhead during the inference phase due to multi-instance predictions. |
+| **Relevance to Proposed Research** | Directly supports Theme 4 (Optimization and Feature Reduction Strategies) by showing how test-time data augmentation and temporal feature aggregation optimize detection performance and robustness without altering underlying architectures. |
+| **Citation (APA 7th)** | Cohen, S., Goldshlager, N., Shapira, B., & Rokach, L. (2023). TTANAD: Test-time augmentation for network anomaly detection. *Entropy*, 25(5), 820. https://doi.org/10.3390/e25050820 |
+| **License** | CC BY 4.0 — Open access, creative commons attribution permitted. |
