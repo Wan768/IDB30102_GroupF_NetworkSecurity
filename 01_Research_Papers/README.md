@@ -1,6 +1,6 @@
 # Research Papers Summary
 
-## Theme 1: Deep Learning & Hybrid Architectures 
+## Theme 1: Machine Learning and Tree-Based NIDS
 
 ### Paper 1
 | Item | Required Information |
