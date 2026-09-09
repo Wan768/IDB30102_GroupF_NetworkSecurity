@@ -18,6 +18,24 @@
 | **License** | CC BY-NC-ND 4.0 — open access, non-commercial redistribution permitted with attribution |
 
 
+## Paper 2
+
+| Item | Required Information |
+| --- | --- |
+| **Paper Title** | Design of Network Intrusion Detection System Based on Data Mining|
+| **Author(s)** | Meng Zhang|
+| **Year** | 2022|
+| **Research Problem** | Traditional intrusion detection systems struggle with high computational requirements and detection delays when mining large-scale network traffic data. |
+| **Method / Technique** | Data mining classification algorithms evaluated and compared against conventional IDS approaches. |
+| **Dataset / Tools** | KDD CUP99 dataset.|
+| **Main Findings** | The system demonstrated significant advantages in classification accuracy, false alarm rate reduction, and detection processing speed compared to standard algorithms. |
+| **Limitation** | Evaluation was restricted to a limited comparison with only four other types of IDS algorithms and utilized an outdated benchmark dataset. |
+| **Relevance to Proposed Research** | Serves as a baseline reference for evaluating traditional data mining and feature extraction techniques against modern lightweight ML/DL architectures. |
+| **Citation (APA 7th)** | Zhang, M. (2022). Design of network intrusion detection system based on data mining. *2022 International Conference on Electronics and Devices, Computational Science (ICEDCS)*, 460–463. [https://doi.org/10.1109/ICEDCS57299.2022.9997039](https://www.google.com/search?q=https://doi.org/10.1109/ICEDCS57299.2022.9997039)<br> |
+| **License** | IEEE / Standard Academic License |
+
+
+
 ## Theme 2: Deep Learning & Hybrid Architectures 
 
 ### Paper 1
