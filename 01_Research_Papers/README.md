@@ -33,7 +33,49 @@
 | **Citation (APA 7th)** | Zhang, M. (2022). Design of network intrusion detection system based on data mining. *2022 International Conference on Electronics and Devices, Computational Science (ICEDCS)*, 460–463. [https://doi.org/10.1109/ICEDCS57299.2022.9997039](https://www.google.com/search?q=https://doi.org/10.1109/ICEDCS57299.2022.9997039)<br> |
 | **License** | IEEE / Standard Academic License |
 
+### Paper 3
+| Item | Required Information |
+| --- | --- |
+| **Paper Title** | Anomaly Detection IDS for Detecting DoS Attacks in IoT Networks Based on Machine Learning Algorithms |
+| **Author(s)** | Esra Altulaihan, Mohammad A. Almaiah, Ahmad Aljughaiman |
+| **Year** | 2024 |
+| **Research Problem** | Efficiently detecting Denial of Service (DoS) attacks targeting IoT networks with minimal processing delay. |
+| **Method / Technique** | Supervised machine learning algorithms (Decision Tree, Random Forest, etc.) combined with feature selection pipelines. |
+| **Dataset / Tools** | IoTID20 dataset. |
+| **Main Findings** | Decision Tree and Random Forest classifiers delivered the highest accuracy and execution speed for DoS traffic profiling. |
+| **Limitation** | Focused on standard supervised machine learning methods without addressing complex non-linear attack vectors or hybrid architectures. |
+| **Relevance to Proposed Research** | Confirms feature selection effectiveness prior to model ingestion, supporting tree-based feature selection approaches. |
+| **Citation (APA 7th)** | Altulaihan, E., Almaiah, M. A., & Aljughaiman, A. (2024). Anomaly detection IDS for detecting DoS attacks in IoT networks based on machine learning algorithms. *Sensors*, 24(2), 713. [https://doi.org/10.3390/s24020713](https://www.google.com/search?q=https://doi.org/10.3390/s24020713)<br> |
+| **License** | CC BY 4.0 — open access |
 
+### Paper 4
+| Item | Required Information |
+| --- | --- |
+| **Paper Title** | A Lightweight Model for DDoS Attack Detection Using Machine Learning Techniques |
+| **Author(s)** | Sapna Sadhwani, B. Manibalan, R. Muthalagu, P. M. Pawar |
+| **Year** | 2023 |
+| **Research Problem** | High computational overhead associated with identifying Distributed Denial of Service (DDoS) attacks in resource-constrained IoT systems. |
+| **Method / Technique** | Machine learning classification pipeline incorporating data scaling, normalization, and feature selection. |
+| **Dataset / Tools** | TON-IoT and BoT-IoT datasets. |
+| **Main Findings** | Random Forest and Naïve Bayes classifiers achieved high accuracy while keeping execution times low across IoT datasets. |
+| **Limitation** | Struggles with extreme class imbalance and deployment within constrained real-time edge environments. |
+| **Relevance to Proposed Research** | Emphasizes feature scaling and attribute selection to achieve low inference latency. |
+| **Citation (APA 7th)** | Sadhwani, S., Manibalan, B., Muthalagu, R., & Pawar, P. M. (2023). A lightweight model for DDoS attack detection using machine learning techniques. *Applied Sciences*, 13(17), 9937. [https://doi.org/10.3390/app13179937](https://www.google.com/search?q=https://doi.org/10.3390/app13179937)<br> |
+| **License** | CC BY 4.0 — open access |
+
+### Paper 5
+| Item | Required Information |
+| --- | --- |
+| **Paper Title** | Reinforcing Network Security: Network Attack Detection Using Random Grove Blend in Weighted MLP Layers |
+| **Author(s)** | Adel Binbusayyis |
+| **Year** | 2024 |
+| **Research Problem** | Improving classification accuracy and managing large traffic datasets while preventing neural network overfitting. |
+| **Method / Technique** | Random Grove Blend incorporating weight weave layers into a Weighted Multi-Layer Perceptron (MLP) ensemble. |
+| **Dataset / Tools** | UNSW-NB15 benchmark dataset and Scapy-generated real-time traffic streams. |
+| **Main Findings** | Achieved 98% classification accuracy across complex attack categories while enhancing overall training efficiency. |
+| **Limitation** | Practical implementation and validation within live operational production networks were not demonstrated. |
+| **Relevance to Proposed Research** | Illustrates effective feature integration and ensembling strategies for multi-layered network intrusion classification. |
+| **Citation (APA 7th)** | Binbusayyis, A. (2024). Reinforcing network security: Network attack detection using random grove blend in weighted MLP layers. *Mathematics*, 12(11), 1720. [https://doi.org/10.3390/math12111720](https://doi.org/10.3390/math12111720)<br> |
 
 ## Theme 2: Deep Learning & Hybrid Architectures 
 
