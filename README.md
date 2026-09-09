@@ -43,6 +43,14 @@
 * `06_Results_or_Expected_Output/`: Performance logs and evaluation metric outputs.
 * `07_References/`: Documentation references.
 
+## Mapping of Technical Work to Research Objectives
+
+| Research Objective | Supporting Component | GitHub Location |
+|---|---|---|
+| **RO1:** To review existing machine learning and deep learning techniques used in network intrusion detection, together with their associated datasets and evaluation metrics. | Systematic review of prior studies on ML/DL-based NIDS, organised by theme, with per paper extraction tables. | `01_Research_Papers/` and `02_Literature_Review/` |
+| **RO2:** To design and develop a lightweight hybrid ML-DL intrusion detection model for resource constrained networks. | Proposed system architecture and flowchart, preliminary preprocessing and baseline classifier scripts. | `03_Architecture_and_Flowchart/` and `04_Source_Code/` |
+| **RO3:** To evaluate the detection performance and computational efficiency of the proposed model against established baseline classifiers using benchmark datasets. | Sample/benchmark dataset sourcing, expected evaluation metrics and planned results. | `05_Data_or_Sample_Input/` and `06_Results_or_Expected_Output/` |
+
 **Expected Tools & Technologies:** Python, Scikit-learn, LightGBM, TensorFlow/Keras or PyTorch, CICIDS2017/NSL-KDD/UNSW-NB15 datasets.
 
 ## Instructions for Executing Preliminary Code
