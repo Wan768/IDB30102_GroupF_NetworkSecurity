@@ -193,3 +193,48 @@
 | **Relevance to Proposed Research** | Directly supports Theme 4 (Optimization and Feature Reduction Strategies) by showing how test-time data augmentation and temporal feature aggregation optimize detection performance and robustness without altering underlying architectures. |
 | **Citation (APA 7th)** | Cohen, S., Goldshlager, N., Shapira, B., & Rokach, L. (2023). TTANAD: Test-time augmentation for network anomaly detection. *Entropy*, 25(5), 820. https://doi.org/10.3390/e25050820 |
 | **License** | CC BY 4.0 — Open access, creative commons attribution permitted. |
+
+### Paper 2
+| Item | Required Information |
+| :--- | :--- |
+| **Paper Title** | Improved Intrusion Detection Based on Hybrid Deep Learning Models and Federated Learning |
+| **Author(s)** | Jia Huang, Zhen Chen, Sheng-Zheng Liu, Hao Zhang, Hai-Xia Long |
+| **Year** | 2024 |
+| **Research Problem** | Industrial Internet of Things (IIoT) devices face critical network security threats, while limited local data resources and data privacy regulations hinder effective centralized machine learning training for intrusion detection systems. |
+| **Method / Technique** | DVACNN-Fed — a federated learning framework integrating Deep Variational Autoencoders (DVA) for data privacy and feature protection with Convolutional Neural Networks and Attention mechanisms (CNN-Attention) for robust intrusion classification across distributed IIoT nodes. |
+| **Dataset / Tools** | TON-IoT and BoT-IoT benchmark datasets; implemented using Python and deep learning frameworks to simulate distributed federated learning client nodes. |
+| **Main Findings** | Demonstrated that the proposed federated learning hybrid model significantly improves detection accuracy, precision, and false-positive rate compared to traditional local training methods and standard baseline models while protecting user data privacy. |
+| **Limitation** | Communication overhead introduced by frequent model updates across multiple distributed nodes in the federated network, and potential vulnerability to malicious client poisoning attacks if node validation is relaxed. |
+| **Relevance to Proposed Research** | Directly supports research objectives involving distributed network optimization, privacy-preserving feature learning, and hybrid deep learning architectures for modern industrial IoT environments. |
+| **Citation (APA 7th)** | Huang, J., Chen, Z., Liu, S.-Z., Zhang, H., & Long, H.-X. (2024). Improved intrusion detection based on hybrid deep learning models and federated learning. *Sensors*, 24(12), 4002. https://doi.org/10.3390/s24124002 |
+| **License** | CC BY 4.0 — open access, creative commons attribution permitted |
+
+### Paper 3
+| Item | Required Information |
+| :--- | :--- |
+| **Paper Title** | A Federated Network Intrusion Detection System with Multi-Branch Network and Vertical Blocking Aggregation |
+| **Author(s)** | Yunhui Wang, Weichu Zheng, Zifei Liu, Jinyan Wang, Hongjian Shi, Mingyu Gu, Yicheng Di |
+| **Year** | 2023 |
+| **Research Problem** | Distributed networks and Internet of Things (IoT) nodes face severe intrusion threats while traditional centralized intrusion detection models compromise data privacy and encounter high communication bottlenecks during model aggregation. |
+| **Method / Technique** | A federated network intrusion detection system combining a multi-branch neural network architecture for local feature extraction with a vertical blocking aggregation algorithm (FedVB) to optimize parameter transmission and secure global model convergence. |
+| **Dataset / Tools** | Benchmark network traffic datasets including CICIDS2017 and UNSW-NB15; implemented in Python utilizing distributed simulation frameworks. |
+| **Main Findings** | Proved that the multi-branch network combined with vertical blocking aggregation effectively reduces communication overhead and improves global detection accuracy compared to standard federated averaging approaches. |
+| **Limitation** | Increased local computational complexity due to multi-branch feature processing, and sensitivity to non-IID (Independent and Identically Distributed) data imbalances across distributed clients. |
+| **Relevance to Proposed Research** | Directly supports Theme 4 (Optimization and Feature Reduction Strategies) by presenting an optimized aggregation and multi-branch network strategy that minimizes communication overhead and computational redundancy in distributed NIDS environments. |
+| **Citation (APA 7th)** | Wang, Y., Zheng, W., Liu, Z., Wang, J., Shi, H., Gu, M., & Di, Y. (2023). A federated network intrusion detection system with multi-branch network and vertical blocking aggregation. *Electronics*, 12(19), 4049. https://doi.org/10.3390/electronics12194049 |
+| **License** | CC BY 4.0 — open access, creative commons attribution permitted |
+
+### Paper 4
+| Item | Required Information |
+| :--- | :--- |
+| **Paper Title** | Feature Engineering and Model Optimization Based Classification Method for Network Intrusion Detection |
+| **Author(s)** | Yujie Zhang, Zebin Wang |
+| **Year** | 2023 |
+| **Research Problem** | Traditional machine learning models face constraints in handling high-dimensional network traffic data and imbalanced class distributions, where redundant information and rare attack classes undermine classification accuracy. |
+| **Method / Technique** | An integrated classification method combining a feature engineering approach via mutual information maximum correlation minimum redundancy (mRMR) feature selection and Synthetic Minority Over-sampling Technique (SMOTE), coupled with the Optuna method to fine-tune CatBoost classifier hyperparameters. |
+| **Dataset / Tools** | NSL-KDD, UNSW-NB15, and CIC-IDS2017 benchmark datasets. |
+| **Main Findings** | Demonstrated through binary and multi-class classification experiments that the proposed feature engineering and hyperparameter optimization approach outperforms traditional methods in accuracy, recall, precision, and F-value. |
+| **Limitation** | Requires extensive preprocessing and computational search overhead during feature selection and hyperparameter optimization phases. |
+| **Relevance to Proposed Research** | Directly supports Theme 4 (Optimization and Feature Reduction Strategies) by utilizing mRMR feature selection and optimization techniques to handle high-dimensional traffic data and class imbalance. |
+| **Citation (APA 7th)** | Zhang, Y., & Wang, Z. (2023). Feature engineering and model optimization based classification method for network intrusion detection. *Applied Sciences*, 13(16), 9363. https://doi.org/10.3390/app13169363 |
+| **License** | CC BY 4.0 — Open access, creative commons attribution permitted. |
