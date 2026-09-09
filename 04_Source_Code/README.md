@@ -1,7 +1,7 @@
 # 04_Source_Code
 
 ## Status
-This folder contains working preliminary code demonstrating the intended preprocessing and baseline classification pipeline described in Chapter 3 of the Research Proposal. Per lecturer clarification, a complete/final system is not required at this stage — these scripts are illustrative of technical feasibility and direction only.
+This folder contains working preliminary code demonstrating the intended preprocessing and baseline classification pipeline described in Chapter 3 of the Research Proposal.
 
 ## Contents
 - `preprocess.py` — loads, cleans, encodes and scales network traffic data; splits into train/test sets.
