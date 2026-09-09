@@ -4,7 +4,7 @@
 `baseline_metrics.json` in this folder is the automatically generated output of running `train_baseline_model.py` on the **synthetic sample data** in `05_Data_or_Sample_Input/`. Its purpose is only to demonstrate that the code pipeline runs end-to-end and produces metrics in the correct format, **it is not a research result** and should not be interpreted as evidence of model performance, since the input data is randomly generated.
 
 ### Expected Output (Once Run on Real Benchmark Data)
-When the pipeline is run on the full CICIDS2017 / NSL-KDD / UNSW-NB15 datasets (per the Proposed Evaluation Plan, Chapter 3.7 of the Research Proposal), the following outputs are expected:
+When the pipeline is run on the full CICIDS2017, NSL-KDD, and UNSW-NB15 datasets, the following outputs are expected:
 
 | Model | Expected Accuracy Range | Expected Inference Time | Notes |
 | :--- | :--- | :--- | :--- |
