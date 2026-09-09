@@ -1,4 +1,4 @@
-# IDB30102_GroupF_NetworkSecurity
+ IDB30102_GroupF_NetworkSecurity
 
 **Research Title:** Design of a Lightweight Hybrid Machine Learning/Deep Learning Intrusion Detection System for Resource Constrained Networks
 
