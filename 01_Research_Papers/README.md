@@ -112,7 +112,7 @@
 | **Main Findings** | Substantially improved classification accuracy, recall, and F1-score for minority and rare attack classes. |
 | **Limitation** | Detection performance is highly dependent on the quality and distribution of generated synthetic samples. |
 | **Relevance to Proposed Research** | Addresses dataset imbalance challenges in multi-class network intrusion detection, providing guidance on feature scaling and data preprocessing steps. |
-| **Citation (APA 7th)** | Strickland, C., Zakar, M., Saha, C., Soltani Nejad, S., Tasnim, N., Lizotte, D. J., & Haque, A. (2024). DRL-GAN: A hybrid approach for binary and multiclass network intrusion detection. *Sensors*, 24(9), 2746. [https://doi.org/10.3390/s24092746](https://www.google.com/search?q=https://doi.org/10.3390/s24092746)<br> |
+| **Citation (APA 7th)** | Strickland, C., Zakar, M., Saha, C., Soltani Nejad, S., Tasnim, N., Lizotte, D. J., & Haque, A. (2024). DRL-GAN: A hybrid approach for binary and multiclass network intrusion detection. *Sensors*, 24(9), 2746. https://www.mdpi.com/1424-8220/24/9/2746 |
 | **License** | CC BY 4.0 — open access |
 
 ## Theme 3:  IoT and Industrial IoT Security
