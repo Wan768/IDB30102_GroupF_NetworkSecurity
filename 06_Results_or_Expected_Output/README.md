@@ -18,4 +18,4 @@ When the pipeline is run on the full CICIDS2017 / NSL-KDD / UNSW-NB15 datasets (
 * A bar chart comparing accuracy vs. inference time across models to visually demonstrate the intended efficiency trade-off improvement
 
 ### Evaluation Metrics Used
-Accuracy, Precision (macro), Recall (macro), F1-score (macro), False Positive Rate, Training Time, Inference Time – consistent with Chapter 3.7 of the Research Proposal.
+Accuracy, Precision (macro), Recall (macro), F1-score (macro), False Positive Rate, Training Time, Inference Time - consistent with Chapter 3.7 of the Research Proposal.
