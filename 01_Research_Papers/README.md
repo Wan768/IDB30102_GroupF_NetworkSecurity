@@ -96,7 +96,7 @@
 | **Main Findings** | Outperformed conventional DL models across Accuracy, Precision, Recall, and F1-score. |
 | **Limitation** | Requires significant computational resources, heavy memory overhead, and extensive hyperparameter tuning. |
 | **Relevance to Proposed Research** | Demonstrates the detection potential of deep learning while emphasizing the necessity for lighter, low-overhead models like Shallow 1D-CNNs for constrained environments. |
-| **Citation (APA 7th)** | Alsulami, M. H. (2024). Residual dense optimization-based multi-attention transformer to detect network intrusion against cyber attacks. *Applied Sciences*, 14(17), 7763. [https://doi.org/10.3390/app14177763](https://doi.org/10.3390/app14177763)<br> |
+| **Citation (APA 7th)** | Alsulami, M. H. (2024). Residual dense optimization-based multi-attention transformer to detect network intrusion against cyber attacks. *Applied Sciences*, 14(17), 7763. https://www.mdpi.com/2076-3417/14/17/7763<br> |
 | **License** | CC BY 4.0 — open access |
 
 ### Paper 5
