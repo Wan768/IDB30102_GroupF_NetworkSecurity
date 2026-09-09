@@ -15,7 +15,7 @@ When the pipeline is run on the full CICIDS2017 / NSL-KDD / UNSW-NB15 datasets (
 ### Planned Result Artefacts
 * Comparative metrics table (accuracy, precision, recall, F1-score, false positive rate, inference time) across all three models
 * Confusion matrices per model
-* A bar chart comparing accuracy vs. inference time across models, to visually demonstrate the intended efficiency trade-off improvement
+* A bar chart comparing accuracy vs. inference time across models to visually demonstrate the intended efficiency trade-off improvement
 
 ### Evaluation Metrics Used
 Accuracy, Precision (macro), Recall (macro), F1-score (macro), False Positive Rate, Training Time, Inference Time – consistent with Chapter 3.7 of the Research Proposal.
