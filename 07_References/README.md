@@ -65,6 +65,15 @@
 | NumPy | Numerical array operations | https://github.com/numpy/numpy | BSD 3-Clause |
 | TensorFlow / Keras (planned) | Deep learning model development | https://github.com/tensorflow/tensorflow | Apache 2.0 |
 
+## Framework / Library References
+Pedregosa, F., et al. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830. https://jmlr.org/papers/v12/pedregosa11a.html
+
+The pandas development team. (2020). pandas-dev/pandas: Pandas (Version 1.0.3) [Software]. Zenodo. https://doi.org/10.5281/zenodo.3509134
+
+Harris, C. R., et al. (2020). Array programming with NumPy. Nature, 585, 357–362. https://doi.org/10.1038/s41586-020-2649-2
+
+Abadi, M., et al. (2016). TensorFlow: A system for large-scale machine learning. In Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI). https://www.tensorflow.org/
+
 ## Technical Documentation
 Scikit-learn documentation — Random Forest Classifier. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
